@@ -1,0 +1,21 @@
+.body{
+  background-color: rgb(237, 239, 239);
+  padding-bottom:300px;
+}
+p{
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+body, html {       
+  overflow-x: hidden;
+  -ms-overflow-style: none;
+  scrollbar-width: none;     
+
+}
+.carousel-content{
+  margin-left: 16px;
+  margin-right: 16px;      
+  
+  
+}

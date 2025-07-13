@@ -1,0 +1,42 @@
+a:link{
+  text-decoration: none;
+  color:black;
+  
+}
+a:visited{
+  color:black;
+}
+
+.section{
+  height:128px;
+  background-color: white;
+  margin-bottom: 15px;
+  margin-left: 16px;
+  margin-right: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 35px;
+  padding-left: 150px;
+  padding-right: 145px;
+}
+.section p{
+  font-size: 14px;
+  font-weight: 600;
+  word-spacing: 1px;
+  text-align: center;
+  cursor: pointer;
+}
+.section img{
+  margin-top: 12px;
+  height:65px;
+  object-fit: contain;
+  margin-bottom: 11px;
+  cursor: pointer;
+}
+.section div{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
