@@ -1,0 +1,1 @@
+This repository contains front-end clones of two popular websites, Flipkart and YouTube, created using HTML and CSS. This project was built to practice and demonstrate skills in static web page development.
